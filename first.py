@@ -2,7 +2,8 @@
 print(" Hello Enter your  name: ")
 print("Neta")
 #2
-print("cat ")
+print(" Hello Enter your adress: ")
+print("Tse'elon 20")
 
 
 """
