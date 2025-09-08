@@ -1,5 +1,4 @@
 #1
 print(" Hello Enter your  name: ")
-print("Neta")
+print("alma")
 #2
-print("cat")
